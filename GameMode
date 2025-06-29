@@ -1,0 +1,6 @@
+Define the gameplay mechanics for:
+- Quick Shuffle
+- Challenge Quest
+- Fizzle Goblin Mode
+
+Each mode alters task behavior, time pressure, and voice tone. Use playful naming and Swift enums.
