@@ -1,0 +1,3 @@
+Design the task generation system. Tasks should be categorized (cleaning, self-care, chaos).
+Use generative AI (Gemma 3n) to invent whimsical variants.
+Each task has: title, prompt, category, and optional timer or reward.
